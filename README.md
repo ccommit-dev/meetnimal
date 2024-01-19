@@ -1,3 +1,4 @@
+![meetnimal](https://github.com/ccommit-dev/meetnimal/assets/77635521/ed1947f9-ce22-4cb8-b594-71b2419866e6)
 # meetnimal
 애견 커뮤니티 프로젝트
 

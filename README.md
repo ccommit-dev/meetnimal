@@ -35,7 +35,7 @@
 - 보안 및 인증: JSON Web Tokens (JWT)
 - 프로그래밍 언어: Java
 - AI 모델 서빙: TensorFlow Serving
-- 블록체인: Ethereum
+- 블록체인: Ethereum, Solidity, Web3.js, Infura, Ganache, Truffle Framework
 - 비즈니스 로직 서버: Spring Boot (Java)
 - 데이터베이스: Mysql
 - 메시지 브로커: RabbitMQ

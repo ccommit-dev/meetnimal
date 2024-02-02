@@ -31,14 +31,13 @@
  
 # 개발 스텍
 - 실시간 통신: WebRTC
-- 미디어 서버: FFmpeg
 - 실시간 메시징: MQTT
 - 보안 및 인증: JSON Web Tokens (JWT)
 - 프로그래밍 언어: Java
 - AI 모델 서빙: TensorFlow Serving
 - 블록체인: Ethereum
 - 비즈니스 로직 서버: Spring Boot (Java)
-- 데이터베이스: PostgreSQL
+- 데이터베이스: Mysql
 - 메시지 브로커: RabbitMQ
 
 # 서버 구조도
